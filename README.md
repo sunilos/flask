@@ -2,5 +2,5 @@
 Contains Flask example code
 
 # Installation 
-pip install Flask 
-pip install Flask-SQLAlchemy
+1. pip install Flask 
+1. pip install Flask-SQLAlchemy
